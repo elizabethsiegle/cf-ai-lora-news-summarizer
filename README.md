@@ -1,5 +1,5 @@
 # AI News Summarizer with [Cloudflare Workers AI](https://ai.cloudflare.com/) and [public LoRAs](https://developers.cloudflare.com/workers-ai/fine-tunes/public-loras/)
-![app](image.png)
+![app](app.png)
 
 Run fine-tuned inference with adapters trained with Low-Rank Adaptation for free.
 This project uses the `mistral-7b-instruct-v0.1` fine-tune and `cf-public-cnn-summarization` LoRA adapter.
