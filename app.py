@@ -19,10 +19,10 @@ def main():
             }
         </style>
     """, unsafe_allow_html=True)
-    st.markdown('<p class="big-font"<p>📰News🗞️ Summarizer</p>', unsafe_allow_html=True)
+    st.markdown('<p class="big-font"<p>AI🤖 News🗞️ Summarizer</p>', unsafe_allow_html=True)
     st.write(":blue[This Python🐍 web🕸️ app is built👩🏻‍💻 w/ [Streamlit](https://streamlit.io/) && [Cloudflare Workers AI](https://ai.cloudflare.com/)]")
 
-    news_link = st.text_input('Please enter a news link to summarize') # news_link = "https://www.sfexaminer.com/news/housing/state-grants-favor-fewer-cars-more-housing-for-sf/article_55465cbc-533a-11ee-bcd6-4fea207c4ac9.html" #st.text_input('Enter a news URL link, please')
+    news_link = st.text_input('Please enter a news link to summarize') # news_link = "https://www.npr.org/2024/07/08/g-s1-8731/emma-navarro-coco-gauff-wimbeldon"
     tone = st.selectbox(
         ':green[What tone do you want the news summary to take?]',
         ('humorous🤣', 'majestic🌊', 'academic📚', '✨inspirational✨', 'dramatic🎭', 'gen z👧🏻')
@@ -69,8 +69,7 @@ def main():
         """
         st.markdown(html_str, unsafe_allow_html=True)
 
-    st.write('Made w/ ❤️ in SF 🌁')
-    st.write("check out this [GitHub repo](https://github.com/elizabethsiegle/ai-replicate-hackathon-CRINGAI)")
+    st.write("Made w/ ❤️ in SF 🌁 || ✅ out the [👩🏻‍💻GitHub repo](https://github.com/elizabethsiegle/cf-ai-lora-news-summarizer)")
 
 if __name__ == "__main__":
     main()
