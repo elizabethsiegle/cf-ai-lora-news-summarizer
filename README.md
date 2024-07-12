@@ -1,4 +1,6 @@
 # AI News Summarizer with [Cloudflare Workers AI](https://ai.cloudflare.com/) and [public LoRAs](https://developers.cloudflare.com/workers-ai/fine-tunes/public-loras/)
+![News Summarizer](https://github.com/user-attachments/assets/b1fe20ad-c185-4a59-8744-225ddc25de6d)
+
 ![app](app.png)
 
 Run fine-tuned inference with adapters trained with Low-Rank Adaptation for free.
