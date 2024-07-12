@@ -16,3 +16,7 @@ CF_ACCOUNT_ID=XXX
 ```
 3. Run `streamlit run app.py` to run the app.
 4. ✨tada🎉
+
+
+https://github.com/user-attachments/assets/1f8af809-73d7-4f9f-ae92-9c0206c5c42e
+
