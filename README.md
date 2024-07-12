@@ -1,5 +1,5 @@
 # AI News Summarizer with [Cloudflare Workers AI](https://ai.cloudflare.com/) and [public LoRAs](https://developers.cloudflare.com/workers-ai/fine-tunes/public-loras/)
-![News Summarizer](https://github.com/user-attachments/assets/b1fe20ad-c185-4a59-8744-225ddc25de6d)
+<img width="1294" alt="coverimg" src="https://github.com/user-attachments/assets/a9b9920b-a2a8-460f-95f2-6e919b397a78">
 
 ![app](app.png)
 
